@@ -1,0 +1,10 @@
+const section = document.querySelector(".section-todo")
+// console.log(section.classList)
+// section.classList.add('bg-dark')
+// section.classList.remove('container')
+// section.classList.toggle('bg-dark')
+// console.log(section.classList)
+
+const header=document.querySelector(".header")
+// console.log(header.classList)
+header.classList.add("bg-dark")
